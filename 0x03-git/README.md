@@ -1,1 +1,1 @@
-Updating readme on git interface
+How to be up to date in git
